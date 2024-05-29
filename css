@@ -1,0 +1,201 @@
+   body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+   }
+
+   header {
+      background-color: black;
+      padding: 10px 0;
+   }
+
+   ul {
+      list-style-type: none;
+      margin: 0px;
+      padding: 0px;
+   }
+
+   li {
+      display:    inline   ;
+      margin-right: 2%  ;   
+      padding-left: 0;
+   }
+
+   li a {
+      color: white;
+      text-decoration: none;
+   }
+
+   li#home a {
+      color: rgba(126, 252, 0, 0.847);
+   }
+   body {
+      margin: 0;
+      padding: 0;
+   }
+
+   .main-section {
+      margin-left: 50px;
+      display: flex;
+      align-items: center;
+   }
+
+   .content {
+      margin-right: 20px;  
+   }
+
+   h1 {
+      font-size: 24px;
+      margin-bottom: 10px;
+   }
+
+   .button {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color:#B2FFA6;
+      color: black;
+      text-decoration: none;
+   }
+   .dog-image {
+      width: 450px;
+      height: auto;
+      margin-left: 500px;
+   }  
+   p{
+      font-size: 36px;
+   }
+   .about-us-section {
+    background-color: #EFEFEF;
+    ;
+    display: flex;
+    align-items: center;
+}
+.about-us-section {
+   background-color:      #EFEFEF;
+   ;
+   display: flex;
+   align-items: center;
+}
+
+.about-us-content {
+   margin-left: 20px;
+}
+
+h2 {
+   font-size: 24px;
+   margin-bottom: 10px;
+}
+
+.about-us-content p {
+   font-size: 16px;
+}
+
+.learn-more-button {
+   display: inline-block;
+   padding: 10px 20px;
+   background-color: #B2FFA6;
+   color: black;
+   text-decoration: none;
+}
+.salon-image{
+   width: 450px;
+   height: auto;
+   margin-left: 95px;
+}
+.services-section {
+   display: flex;
+   background-color: white;
+}
+
+.services-text {
+   padding: 20px;
+}
+
+h4 {
+   font-size: 18px;
+   margin-bottom: 10px;
+}
+
+p {
+   font-size: 14px;
+}
+
+.black-dog-image {
+   max-width: 517px;
+   width: 100%;
+}
+.service-image{
+   width: 50px;
+   height: 50px;
+   flex-wrap: wrap;
+}
+.grooming-section {
+   text-align: center;
+   padding: 20px;
+   background-color: #EFEFEF; 
+   ;
+}
+
+.grooming-photos {
+   display: flex;
+   justify-content: space-around;
+   margin-top: 20px;
+}
+
+.grooming-photo {
+   text-align: center;
+}
+
+.grooming-image {
+   width: 200px;
+   height: auto;
+}
+
+.view-services-button{
+   margin-top: 20px;
+   padding: 10px 20px;  
+   border-color: #B2FFA6;
+}
+footer {
+   background-color: black;
+   color: white;
+   display: flex;
+   justify-content: space-between;
+   padding: 10px;
+}
+
+.footer-left {
+   display: flex;
+   align-items: center;
+}
+
+.bold {
+   font-weight: bold;
+   color: white;
+}
+.small-image{
+   width: 40px;
+   height: auto;
+}
+.make-your-dogs {
+   font-size: 35px;
+   display: inline-block;
+   
+ }
+
+ .look-their-best {
+   font-size: 40px;
+   font-weight: bold;
+}
+.service-list{
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   justify-content: space-between;
+}
+.service-list li {
+   max-width: 417px;
+   display: flex;
+
+   
+}
